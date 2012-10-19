@@ -23,6 +23,8 @@
     
 </head>
 <body class="hogehoge">
+
+編集したいなあ。できるかなあ？
 	
 <div id="fb-root"></div>
 
